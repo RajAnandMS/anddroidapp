@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/btnGoogleAuth"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".splashscreen">
+
+    <ImageView
+        android:layout_width="300dp"
+        android:id="@+id/splaash"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rgm"
+        android:layout_centerInParent="true">
+    </ImageView>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="15dp"
+        android:textColor="#DDD2D2"
+        android:textSize="15sp"
+        android:gravity="center_horizontal"
+        android:layout_alignParentBottom="true"
+        android:text="Powered by RGM">
+    </TextView>
+
+
+
+
+</RelativeLayout>

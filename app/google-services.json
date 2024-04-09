@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680858860020",
+    "project_id": "netfriends-ce6d4",
+    "storage_bucket": "netfriends-ce6d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680858860020:android:d9a35385ba6d8d551821a1",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClqG0VakRS77-NjwF2dMuSPSGM8SF4Vfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
